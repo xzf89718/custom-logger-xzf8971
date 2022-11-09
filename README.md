@@ -1,6 +1,10 @@
 # custom-logger-xzf8971
 Just a very simple wrapper to configure a thread safe logger.
 
+# Start
+```bash
+pip install custom-logger-xzf8971
+```
 # Usage
 <font color='red'>The logger_name must be exclusive!</font>
 ```python
